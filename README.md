@@ -25,7 +25,7 @@ Key Features:
 Installation:
 -------------
 1. Clone the repository:
-   git clone (https://github.com/krishnavats123/Automatic-text-summarization.git)
+   git clone https://github.com/krishnavats123/Automatic-text-summarization.git
 
 2. Navigate to the project directory:
    cd flask-text-summarizer
